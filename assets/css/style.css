@@ -275,6 +275,10 @@ a {
     text-decoration: none;
 }
 
+#Hangman-link {
+    color: #ffffff;
+}
+
 @media screen and (max-width: 980px) {
     #name-box {
         margin-left: 5%;
@@ -321,6 +325,8 @@ a {
         height: 70%; 
         margin-left: 5%;
     }
+
+
 
 
 }
@@ -409,8 +415,10 @@ a {
 
 
 
-
 }
+
+
+
 
 
 
