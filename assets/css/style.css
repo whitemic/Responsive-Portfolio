@@ -279,6 +279,11 @@ a {
     color: #ffffff;
 }
 
+#Crystal-link {
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+
 @media screen and (max-width: 980px) {
     #name-box {
         margin-left: 5%;
